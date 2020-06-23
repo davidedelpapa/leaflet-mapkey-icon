@@ -1,3 +1,5 @@
+**Updated to the latest MapkeyIcons version: 1.2.0**
+
 <div style="text-align:center" align="center">
     <img width="50%" src="http://mapshakers.github.io/projects/leaflet-mapkey-icon/img/mapkeyIcons.svg" alt="mapkeyicons"/>
 </div>
